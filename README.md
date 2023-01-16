@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @genctasbasi
-- 👀 I’m interested in tech leadership, recruitment, mobile tech, Flutter and React
-- 🌱 I’m currently learning Flutter & React
+- 💪 I've been working as an Android contractor and tech lead in and around London since 2008
+- 👀 I’m interested in tech leadership, recruitment, Android, mobile tech, Flutter and React, React Native
+- 🌱 I’m currently learning React
 - 💞️ You're a CMO material looking for new adventures? Let me know.
 - 📫 How to reach me: genctasbasi.com or LinkedIn
 
